@@ -1,2 +1,3 @@
 # hello-world
-tutorial thing
+tutorial thing:
+I'm not going to write about myself. Finna Yeet.
